@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>html-assignment 3</title>
+</head>
+
+<body>
+  <h1>Welcome Back!</h1>
+  <h3>Here is a great video from YouTube!</h3>
+  <iframe width="420" height="315" src="https://www.youtube.com/embed/tgbNymZ7vqY">
+  </iframe>
+  <h3>Here's some music from spotify!</h3>
+  <iframe src="https://open.spotify.com/embed/track/02rbSCTm2smTIZ6d8im2NP" width="420" height="100" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  <p>Want to stay informed? Put your info here!</p>
+  <form>
+    <label for="email">Email:</label>
+    <input type="email" id="email">
+    <button>Join Our Mailing List!</button>
+  </form>
+</body>
+
+</html>
